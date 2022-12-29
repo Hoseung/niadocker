@@ -4,3 +4,4 @@ ipython
 tqdm
 matplotlib
 opencv-python-headless
+einops
